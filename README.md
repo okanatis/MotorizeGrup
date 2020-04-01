@@ -1,2 +1,2 @@
 # MotorizeGrup
-Baş Motor Oguzhan and others
+Baş Motor Oguzkaan and others
