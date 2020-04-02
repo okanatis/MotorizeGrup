@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BB9DA3BC-C547-4DCC-9A7B-C0DD62E79A3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{BCFACBC8-582A-4CFC-9095-9E2E88A4051B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Motorize_Api", "Motorize_Api", "{16CB971B-73D4-4DC9-A59A-CC002692184F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorizeGrup_Web", "MotorizeGrup_Web\MotorizeGrup_Web.csproj", "{DF7784D2-D56E-4C64-B427-41516F700309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7784D2-D56E-4C64-B427-41516F700309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7784D2-D56E-4C64-B427-41516F700309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7784D2-D56E-4C64-B427-41516F700309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7784D2-D56E-4C64-B427-41516F700309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF7784D2-D56E-4C64-B427-41516F700309} = {BB9DA3BC-C547-4DCC-9A7B-C0DD62E79A3C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE548E7-436D-4376-A1DA-A5CB9784447B}
+	EndGlobalSection
+EndGlobal

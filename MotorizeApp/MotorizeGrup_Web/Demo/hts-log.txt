@@ -1,0 +1,116 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Apr 2020 19:33:37 at https://madrasthemes.github.io/mytravel-html/html/home/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://madrasthemes.github.io/mytravel-html/html/home/index.html -O1 "C:\Benim Web Sitem\ss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:33:55	Warning: 	unexpected incomplete type with 200 code at fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:33:55	Warning: 	unexpected incomplete type with 200 code at https://fonts.googleapis.com/css?family=Lato&display=swap
+19:34:08	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/Benim Web Sitem/ss/www.w3.org/2000/svg.d.delayed
+19:34:08	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+19:34:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 240): https://fonts.googleapis.com/css?family=Lato&display=swap
+19:34:25	Warning: 	Warning: store text/css without scan: C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:34:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1207): fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:34:35	Warning: 	Warning: store text/html without scan: C:/Benim Web Sitem/ss/www.facebook.com/index.html
+19:34:36	Warning: 	Warning: store text/html without scan: C:/Benim Web Sitem/ss/twitter.com/index.html
+19:34:36	Warning: 	Warning: store text/html without scan: C:/Benim Web Sitem/ss/www.instagram.com/index.html
+19:37:07	Warning: 	File not parsed, looks like binary: www.w3.org/2000/svg
+19:37:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:11	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:11	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:17	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:17	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:24	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:24	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:26	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:26	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:31	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:31	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:34	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:34	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:35	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:35	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:40	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:40	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+19:37:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Lato&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.2f44d.delayed
+19:37:41	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Lato&display=swap
+19:37:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap -> C:/Benim Web Sitem/ss/fonts.googleapis.com/css.347ae.delayed
+19:37:41	Warning: 	link is probably looping, type unknown, aborting: fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+20:04:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.linkedin.com/jobs/program-and-project-management-jobs?trk=homepage-basic_suggested-search (from https://www.linkedin.com/)
+20:12:38	Error: 	"Not Found" (404) at link https://www.linkedin.com/pub/dir/+/+?trk=homepage-basic_people-cta (from https://www.linkedin.com/)
+20:22:48	Error: 	"Request denied" (999) at link https://www.linkedin.com/pub/dir/+/+?trk=homepage-basic_brand-discovery (from https://www.linkedin.com/)
+20:22:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.linkedin.com/jobs/jobs-in-maltepe?trk=homepage-basic_brand-discovery (from https://www.linkedin.com/)
+20:24:01	Error: 	"Request denied" (999) at link https://www.linkedin.com/company/linkedin/jobs?trk=homepage-basic_directory_careersUrl (from https://www.linkedin.com/)
+20:24:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.linkedin.com/learning/?trk=homepage-basic_directory_learningHomeUrl (from https://www.linkedin.com/)
+20:25:19	Error: 	"Request denied" (999) at link https://www.linkedin.com/directory/people-a?trk=homepage-basic_directory_peopleDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.linkedin.com/directory/jobs?trk=homepage-basic_directory_jobSearchDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Error: 	"Request denied" (999) at link https://www.linkedin.com/directory/companies?trk=homepage-basic_directory_companyDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.linkedin.com/directory/salaries?trk=homepage-basic_directory_salaryDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Error: 	"Request denied" (999) at link https://www.linkedin.com/directory/universities?trk=homepage-basic_directory_universityDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Error: 	"Request denied" (999) at link https://www.linkedin.com/directory/featured?trk=homepage-basic_directory_featuredDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Error: 	"Request denied" (999) at link https://www.linkedin.com/directory/learning?trk=homepage-basic_directory_learningDirectoryUrl (from https://www.linkedin.com/)
+20:25:19	Error: 	"Request denied" (999) at link https://www.linkedin.com/directory/posts?trk=homepage-basic_directory_postsDirectoryUrl (from https://www.linkedin.com/)
+20:26:34	Error: 	Unable to save file C:/Benim Web Sitem/ss/www.w3.org/blog/news/feed: Permission denied
+20:26:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1488): www.w3.org/2008/site/images/icons/atom30
+20:42:26	Error: 	"Request denied" (999) at link https://de.linkedin.com/pub/dir/+/+?trk=homepage-basic_people-cta (from https://de.linkedin.com/)
+20:42:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://de.linkedin.com/learning/topics/video-audio-2?trk=homepage-basic_learning-cta (from https://de.linkedin.com/)
+20:45:52	Error: 	"Request denied" (999) at link https://de.linkedin.com/pub/dir/+/+?trk=homepage-basic_brand-discovery (from https://de.linkedin.com/)
+20:45:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://de.linkedin.com/jobs/stellen-in-maltepe?trk=homepage-basic_brand-discovery (from https://de.linkedin.com/)
+20:48:58	Error: 	"Request denied" (999) at link https://de.linkedin.com/directory/people-a?trk=homepage-basic_directory_peopleDirectoryUrl (from https://de.linkedin.com/)
+20:48:58	Error: 	"Request denied" (999) at link https://de.linkedin.com/directory/jobs?trk=homepage-basic_directory_jobSearchDirectoryUrl (from https://de.linkedin.com/)
+20:48:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://de.linkedin.com/directory/companies?trk=homepage-basic_directory_companyDirectoryUrl (from https://de.linkedin.com/)
+20:48:58	Error: 	"Request denied" (999) at link https://de.linkedin.com/directory/universities?trk=homepage-basic_directory_universityDirectoryUrl (from https://de.linkedin.com/)
+20:48:58	Error: 	"Request denied" (999) at link https://de.linkedin.com/directory/featured?trk=homepage-basic_directory_featuredDirectoryUrl (from https://de.linkedin.com/)
+20:48:58	Error: 	"Request denied" (999) at link https://de.linkedin.com/directory/learning?trk=homepage-basic_directory_learningDirectoryUrl (from https://de.linkedin.com/)
+20:48:58	Error: 	"Request denied" (999) at link https://de.linkedin.com/directory/posts?trk=homepage-basic_directory_postsDirectoryUrl (from https://de.linkedin.com/)
+20:54:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://pt.linkedin.com/jobs/accounting-vagas?trk=homepage-basic_suggested-search (from https://pt.linkedin.com/)
+20:56:41	Error: 	"Not Found" (404) at link https://pt.linkedin.com/jobs/military-and-protective-services-vagas?trk=homepage-basic_suggested-search (from https://pt.linkedin.com/)
+20:59:23	Error: 	"Request denied" (999) at link https://pt.linkedin.com/pub/dir/+/+?trk=homepage-basic_people-cta (from https://pt.linkedin.com/)
+20:59:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://pt.linkedin.com/pub/dir/+/+?trk=homepage-basic_brand-discovery (from https://pt.linkedin.com/)
+21:00:17	Error: 	"Request denied" (999) at link https://pt.linkedin.com/directory/people-a?trk=homepage-basic_directory_peopleDirectoryUrl (from https://pt.linkedin.com/)
+21:00:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://pt.linkedin.com/directory/jobs?trk=homepage-basic_directory_jobSearchDirectoryUrl (from https://pt.linkedin.com/)
+21:00:17	Error: 	"Request denied" (999) at link https://pt.linkedin.com/directory/companies?trk=homepage-basic_directory_companyDirectoryUrl (from https://pt.linkedin.com/)
+21:00:17	Error: 	"Request denied" (999) at link https://pt.linkedin.com/directory/universities?trk=homepage-basic_directory_universityDirectoryUrl (from https://pt.linkedin.com/)
+21:00:17	Error: 	"Request denied" (999) at link https://pt.linkedin.com/directory/featured?trk=homepage-basic_directory_featuredDirectoryUrl (from https://pt.linkedin.com/)
+21:00:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://pt.linkedin.com/directory/posts?trk=homepage-basic_directory_postsDirectoryUrl (from https://pt.linkedin.com/)
+21:05:45	Error: 	"Not Found" (404) at link https://il.linkedin.com/jobs/military-and-protective-services-jobs?trk=homepage-basic_suggested-search (from https://il.linkedin.com/)
+21:07:28	Error: 	"Request denied" (999) at link https://il.linkedin.com/pub/dir/+/+?trk=homepage-basic_people-cta (from https://il.linkedin.com/)
+21:07:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://il.linkedin.com/learning/topics/it-help-desk-5?trk=homepage-basic_learning-cta (from https://il.linkedin.com/)
+21:07:55	Error: 	"Request denied" (999) at link https://il.linkedin.com/pub/dir/+/+?trk=homepage-basic_brand-discovery (from https://il.linkedin.com/)
+21:08:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://il.linkedin.com/learning/search?trk=homepage-basic_brand-discovery (from https://il.linkedin.com/)
+21:09:07	Error: 	"Request denied" (999) at link https://il.linkedin.com/directory/people-a?trk=homepage-basic_directory_peopleDirectoryUrl (from https://il.linkedin.com/)
+21:09:07	Error: 	"Request denied" (999) at link https://il.linkedin.com/directory/jobs?trk=homepage-basic_directory_jobSearchDirectoryUrl (from https://il.linkedin.com/)
+21:09:07	Error: 	"Request denied" (999) at link https://il.linkedin.com/directory/companies?trk=homepage-basic_directory_companyDirectoryUrl (from https://il.linkedin.com/)
+21:09:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://il.linkedin.com/directory/universities?trk=homepage-basic_directory_universityDirectoryUrl (from https://il.linkedin.com/)
+21:09:07	Error: 	"Request denied" (999) at link https://il.linkedin.com/directory/posts?trk=homepage-basic_directory_postsDirectoryUrl (from https://il.linkedin.com/)
+21:09:25	Error: 	"Request denied" (999) at link https://my.linkedin.com/pub/dir/+/+?trk=homepage-basic_people-cta (from https://my.linkedin.com/)
+21:09:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://my.linkedin.com/learning/topics/it-help-desk-5?trk=homepage-basic_learning-cta (from https://my.linkedin.com/)
+21:09:44	Error: 	"Request denied" (999) at link https://my.linkedin.com/pub/dir/+/+?trk=homepage-basic_brand-discovery (from https://my.linkedin.com/)
+21:09:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://my.linkedin.com/jobs/jobs-in-maltepe?trk=homepage-basic_brand-discovery (from https://my.linkedin.com/)
+21:09:48	Error: 	"Request denied" (999) at link https://my.linkedin.com/directory/people-a?trk=homepage-basic_directory_peopleDirectoryUrl (from https://my.linkedin.com/)
+21:09:48	Error: 	"Request denied" (999) at link https://my.linkedin.com/directory/jobs?trk=homepage-basic_directory_jobSearchDirectoryUrl (from https://my.linkedin.com/)
+21:09:48	Error: 	"Request denied" (999) at link https://my.linkedin.com/directory/companies?trk=homepage-basic_directory_companyDirectoryUrl (from https://my.linkedin.com/)
+21:09:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://my.linkedin.com/directory/universities?trk=homepage-basic_directory_universityDirectoryUrl (from https://my.linkedin.com/)
+21:09:48	Error: 	"Request denied" (999) at link https://my.linkedin.com/directory/posts?trk=homepage-basic_directory_postsDirectoryUrl (from https://my.linkedin.com/)
+21:10:56	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
