@@ -1,0 +1,10 @@
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\bin\Debug\netcoreapp3.1\MotorizeGrup_Entities.deps.json
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\bin\Debug\netcoreapp3.1\MotorizeGrup_Entities.dll
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\obj\Debug\netcoreapp3.1\MotorizeGrup_Entities.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\obj\Debug\netcoreapp3.1\MotorizeGrup_Entities.AssemblyInfo.cs
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\bin\Debug\netcoreapp3.1\MotorizeGrup_Entities.pdb
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\obj\Debug\netcoreapp3.1\MotorizeGrup_Entities.dll
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\obj\Debug\netcoreapp3.1\MotorizeGrup_Entities.pdb
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\obj\Debug\netcoreapp3.1\MotorizeGrup_Entities.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\bin\Debug\netcoreapp3.1\MotorizeGrup_Entities.runtimeconfig.json
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\MotorizeGrup_Entities\bin\Debug\netcoreapp3.1\MotorizeGrup_Entities.runtimeconfig.dev.json

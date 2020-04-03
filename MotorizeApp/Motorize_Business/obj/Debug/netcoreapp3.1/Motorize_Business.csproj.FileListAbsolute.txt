@@ -1,0 +1,8 @@
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\bin\Debug\netcoreapp3.1\Motorize_Business.deps.json
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\bin\Debug\netcoreapp3.1\Motorize_Business.dll
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\obj\Debug\netcoreapp3.1\Motorize_Business.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\obj\Debug\netcoreapp3.1\Motorize_Business.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\obj\Debug\netcoreapp3.1\Motorize_Business.AssemblyInfo.cs
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\bin\Debug\netcoreapp3.1\Motorize_Business.pdb
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\obj\Debug\netcoreapp3.1\Motorize_Business.dll
+C:\Users\Hannibal\Documents\GitHub\MotorizeGrup\MotorizeGrup\MotorizeApp\Motorize_Business\obj\Debug\netcoreapp3.1\Motorize_Business.pdb
